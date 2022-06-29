@@ -1,0 +1,10 @@
+10.30.10.16/32                               Remote  OSPF      54d03h14m  10
+10.10.10.6/32                                Remote  OSPF      01h18m34s  10
+10.10.10.7/32                                Remote  OSPF      97d19h52m  10
+10.10.10.8/32                                Remote  OSPF      97d19h51m  10
+10.10.10.9/32                                Remote  OSPF      97d19h51m  10
+10.10.10.10/32                               Remote  OSPF      97d19h51m  10
+10.10.10.11/32                               Remote  OSPF      97d19h51m  10
+10.10.10.12/32                               Remote  OSPF      97d19h52m  10
+10.10.10.13/32                               Remote  OSPF      97d19h52m  10
+10.10.10.14/32                               Remote  OSPF      23d22h05m  10
