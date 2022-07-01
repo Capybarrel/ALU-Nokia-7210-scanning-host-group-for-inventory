@@ -41,7 +41,7 @@ At the end it creates a file agg-result.txt with the following content:
 Where from left to right ip address, hostname, host model, serial number, mac address, and sdp tag from the service router. All that remains is to import it into excel and put ";" as a separator.
 
 
-<sub>PS: I have lived all my life in Donetsk (Ukraine) and my native language is Russian, I apologize for possible grammatical errors and comments in the code in Russian. Since recently, my dream is to speak English, I will be glad if you point out the errors, I will try to understand and correct them. <sub>
+<sub>PS: I apologize for possible grammatical errors and comments in the code in Russian. Since recently, my dream is to speak English, I will be glad if you point out the errors, I will try to understand and correct them. <sub>
 
 ### Russian:
 
